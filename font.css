@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'Ivy Mode';
+    src: local('Ivy Mode Thin'), local('IvyMode-Thin'),
+         url('IvyMode-Thin.eot?#iefix') format('embedded-opentype'),
+         url('IvyMode-Thin.woff2') format('woff2'),
+         url('IvyMode-Thin.woff') format('woff'),
+         url('IvyMode-Thin.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Ivy Modelight';
+    src: url('IvyMode-Light.eot');
+    src: local('Ivy Mode Light'), local('IvyMode-Light'),
+        url('IvyMode-Light.eot?#iefix') format('embedded-opentype'),
+        url('IvyMode-Light.woff2') format('woff2'),
+        url('IvyMode-Light.woff') format('woff'),
+        url('IvyMode-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
